@@ -290,7 +290,7 @@ button { cursor: pointer; font-family: inherit; }
   text-align: center;
   background-image: url('imagery/silly.JPG');
   background-size: cover;
-  background-position: center top;
+  background-position: center 40%;
 }
 
 .hero-inner {
