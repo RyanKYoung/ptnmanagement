@@ -206,6 +206,14 @@ button { cursor: pointer; font-family: inherit; }
   display: block;
 }
 
+.nav-logo-name {
+  font-size: 1.0625rem;
+  font-weight: 700;
+  color: var(--color-text);
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
 .nav-links {
   display: flex;
   align-items: center;
