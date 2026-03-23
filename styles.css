@@ -289,8 +289,10 @@ button { cursor: pointer; font-family: inherit; }
   padding-block: var(--space-24) var(--space-20);
   text-align: center;
   background-image: url('imagery/silly.JPG');
-  background-size: cover;
+  background-size: 75%;
   background-position: center 40%;
+  background-repeat: no-repeat;
+  background-color: #0a1628;
 }
 
 .hero-inner {
